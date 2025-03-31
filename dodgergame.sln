@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "dodgergame", "dodgergame\dodgergame.pyproj", "{76442572-70E1-4DF8-9630-A7FCD45C0E58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76442572-70E1-4DF8-9630-A7FCD45C0E58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76442572-70E1-4DF8-9630-A7FCD45C0E58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B80DF40A-13BC-4EE7-98B3-7A1B26F614ED}
+	EndGlobalSection
+EndGlobal
